@@ -1,0 +1,1 @@
+# RAG-with-the-OpenAI-API-and-Pinecone-DB
